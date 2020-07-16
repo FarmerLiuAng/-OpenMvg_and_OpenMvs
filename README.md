@@ -2,7 +2,7 @@
 
 When I use OpenMvg and OpenMvs to build a 3D scenery, there are some codes I wrote down in case lost.
 
-ReadfromOpenMvgJason : \n
+ReadfromOpenMvgJason :
 A process is neccesary that I have to read the jason, and change it to a type that colmap can read in. 
 
 changeCamSamepara:
