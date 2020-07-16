@@ -1,4 +1,4 @@
-# ReadfromOpenMvgJason 
+#OpenMvg and OpenMvs
 
 When I use OpenMvg and OpenMvs to build a 3D scenery, there are some codes I wrote down in case lost.
 
